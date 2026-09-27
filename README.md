@@ -2,7 +2,7 @@
 
 This is an interactive teaching app for exploring how survival and fertility schedules set population growth. I built it for BES 550 Advanced Ecology at the University of Rhode Island, as part of the lecture on population demographics and its drivers.
 
-Open the app: https://JAHarvey.github.io/dublin-lotka/
+Open the app: https://jaharvey.github.io/dublin-lotka/
 
 The first load takes 10–20 seconds because the app runs entirely in your browser.
 
