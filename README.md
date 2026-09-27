@@ -30,3 +30,11 @@ The About tab has questions to work through.
 > Ages are discrete. f(a) counts female offspring per female, and each table is treated as a single cohort.
 > The fast and slow life tables and the scenario values are illustrative. They are not data from real populations.
 > The approximation works best when r is near 0 and reproduction is concentrated around Tc. Comparing it to the exact r shows when it breaks down.
+
+### Reference
+
+Dublin, L. I. & Lotka, A. J. (1925). On the true rate of natural increase. Journal of the American Statistical Association. https://www.jstor.org/stable/2965517
+
+### Contact
+
+Johanna Harvey, University of Rhode Island (Avian Disease Lab).
